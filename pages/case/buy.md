@@ -20,7 +20,7 @@ Der INTIA-Koffer kann auch jetzt schon benutzt werden: Ihr könnt euren eigenen 
 
 ## Die Einkaufliste
 
-Unter nachfolgenden Link werdet ihr zu der Webseite "Mein Online Wunschzettel" weitergeletet.
+Unter nachfolgendem Link werdet ihr zu der Webseite "Mein Online Wunschzettel" weitergeleitet.
 
 Hier findet ihr eine einfache Auflistung:
 
@@ -33,8 +33,8 @@ Hier findet ihr eine einfache Auflistung:
 
 ### Detailierter Auflistung
 
-Zu beachten ist das hier keine Alternativen dargestellt werden und Zusatzkosten wie die von Kabeln, 3D-Druck, Laser-Cuts und das Zusammenbauen einzelner Bausteine nicht abgebildet ist.
-Es gibt manchmal mehrere Alternativen für einen Baustein. Zum Beispiel bei den Lampen. Der nachfogende Download führt zu einer Excel-Tabelle. Diese Excel-Tabelle ermöglicht ein individuelleres Zusammenstellen und lebendige Planung. Wir empfehlen die Nutzung dieser Tabelle aber nur für Erfahrende Personen oder soche die sich tiefer mit dem Thema beschäftigen möchten.
+Zu beachten ist, dass hier keine Alternativen dargestellt werden und Zusatzkosten wie die von Kabeln, 3D-Druck, Laser-Cuts und das Zusammenbauen einzelner Bausteine nicht abgebildet ist.
+Es gibt manchmal mehrere Alternativen für einen Baustein. Zum Beispiel bei den Lampen. Der nachfogende Download führt zu einer Excel-Tabelle. Diese Excel-Tabelle ermöglicht ein individuelleres Zusammenstellen und lebendige Planung. Wir empfehlen die Nutzung dieser Tabelle aber nur für Erfahrende Personen oder soche, die sich tiefer mit dem Thema beschäftigen möchten.
 
 <a href='https://wiki.th-koeln.de/download/resources/com.atlassian.confluence.extra.officeconnector%3Aviewxls/images/excel-editor-placeholder.png' class='button highlighter-column-button is-rounded is-dark'>
       <span>Excel-Einkaufsliste herunterladen (TODO!)"</span>
@@ -45,7 +45,7 @@ Es gibt manchmal mehrere Alternativen für einen Baustein. Zum Beispiel bei den 
 
 # Was kostet der INTIA-Koffer?
 
-Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise sind eine grobe Schätzung. Dennoch gibt die Tabelle einen Überblick darüber, wie teuer die verschiedenen Koffer etwa sind.
+Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise sind eine grobe Schätzung. Dennoch gibt die Tabelle einen Überblick darüber, wie teuer der Koffer und seine Erweiterungen etwa sind.
 
 <table class="tb">
     <tr>
@@ -55,27 +55,27 @@ Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise 
     </tr>
     <tr>
         <td>INTIA-Koffer</td>
-        <td>Enthalten Sind Alle Analogen Materialien Sowie Der Mini-Computer Und Eine Auswahl Einfacher Bausteine. <br /> 
-            Den Koffer An Sich Gibt Es Aus Verschiedenem Material. In Allen Koffern Können Die Bestandteile Sicher Verstaut Werden. <br />
-            Masse: 25 X 17 X 7 Cm <br />
-            Gewicht: 2,3 Kg</td>
+        <td>Enthalten sind alle analogen Materialien sowie der Mini-Computer und eine Auswahl einfacher Bausteine. <br /> 
+            Den Koffer an sich gibt es aus verschiedenem Material. In allen Koffern können die Bestandteile sicher verstaut werden. <br />
+            Masse: 25 X 17 X 7 cm <br />
+            Gewicht: 2,3 kg</td>
         <td>~350€</td>
     </tr>
     <tr>
         <td>INTIA-Methodensammlung</td>
-        <td>Alle Analogen Materialien Im Hochwertigen Druck (ohne Bausteine). Ideal Für Selbst-Bastler, MakerSpaces, Kreativ-Räume Und Innovations-Labore!</td>
+        <td>Alle analogen Materialien im hochwertigen Druck (ohne Bausteine). Ideal für Selbst-Bastler, MakerSpaces, Kreativ-Räume und Innovations-Labore!</td>
         <td>~65€</td>
     </tr>
     <tr>
-        <td>INTIA Als Laborraum Ausstatten</td>
-        <td>Alles Aus Dem INTIA-Baukasten Und Der INTIA-Methodensammlung, Um Einen Raum Als Laborraum Auszustatten. Der Umfang Und Der Preis Hängen Davon Ab, Was Du Brauchst Oder Möchtest.</td>
+        <td>INTIA als Laborraum ausstatten</td>
+        <td>Alles aus dem INTIA-Baukasten und der INTIA-Methodensammlung, um einen Raum als Laborraum auszustatten. Der Umfang und der Preis hängen davon ab, was du brauchst oder möchtest.</td>
         <td>~ ?</td>
     </tr>
 </table>
 
 ## Laufende Kosten
 
-Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, was gefahrlos möglich ist, ist der Stromverbrauch sehr gering.
+Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betrieb genutzt werden, was gefahrlos möglich ist, ist der Stromverbrauch sehr gering.
 Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
 
 ## Wie kommt der Preis zustande?
@@ -86,19 +86,19 @@ Ein abschließender Hinweis: Der INTIA-Koffer wurde so zusammengestellt, dass er
 
 ## Wie entscheide ich mich?
 
-Mit welchem INTIA Koffer kannst du genau das machen, was du dir vorgestellt hast? Was solltest du bedenken, um dich für deinen Koffer zu entscheiden? Hier stellen wir drei mögliche Szenarien einer Nutzung vor, die häufig als Feedback in unseren Tests auftraten und vielleicht auch deine Fragen vor der Anschaffung beantworten:
+Mit welchem INTIA-Koffer kannst du genau das machen, was du dir vorgestellt hast? Was solltest du bedenken, um dich für deinen Koffer zu entscheiden? Hier stellen wir drei mögliche Szenarien einer Nutzung vor, die häufig als Feedback in unseren Tests auftraten und vielleicht auch deine Fragen vor der Anschaffung beantworten:
 
 **A: "Du hast noch keine Erfahrung, möchtest aber gerne etwas Neues ausprobieren."**
 
-Es ist am einfachsten einfach unserer Kaufempfehlung zu folgen. Er bietet ein gutes Fundament für den Einstieg und gleichzeitig ist er sehr flexibel. Natürlich kann der Koffer auch später erweitert und geändert werden.
+Es ist am einfachsten unserer Kaufempfehlung zu folgen. Er bietet ein gutes Fundament für den Einstieg und gleichzeitig ist er sehr flexibel. Natürlich kann der Koffer auch später erweitert und geändert werden.
 
 **B: "Du bist bereits Technik erfahrener und hast einen gute Vorstellung was du braucht. Eventuell hast du bereits mit anderen Technik-Sets gearbeitet"**
 
-Bau deinen eigenen Koffer, der am besten auf deine Bedürfnisse passt! Die Informationen zum INTIA Koffer können dabei als Inspiration helfen, die ideale Technik auszuwählen und sie miteinander zu kombinieren. Unsere Einkaufsliste ist so aufgebaut das du einfach Elemente ändern kannst. Später folgt hier ein Link zur Einkaufsliste. 
+Bau deinen eigenen Koffer, der am besten auf deine Bedürfnisse passt! Die Informationen zum INTIA-Koffer können dabei als Inspiration helfen, die ideale Technik auszuwählen und sie miteinander zu kombinieren. Unsere Einkaufsliste ist so aufgebaut das du einfach Elemente ändern kannst. Später folgt hier ein Link zur Einkaufsliste. 
 
 **C: "Du verfügst über einen festen Ort / ein Labor, wo du vorhandene Ausstattung benutzen kannst oder neue hinzu anschaffen möchtest. Warum also einen beweglichen Koffer nehmen?"**
 
-Der INTIA Koffer ist im Prinzip ein mobiles Alltagslabor und kann fest in einen Raum integriert werden. Seine Elemente wie der Raspberry Pi (Mini-Computer) kann fest ins WLAN einer Einrichtung integriert werden. Die Technik des INTIA Koffers kann mit den vorhandenen Strukturen des Raums dauerhaft verbunden werden. So könntest du z.B. die Decken-Lampe über den INTIA Koffer steuern.
+Der INTIA Koffer ist im Prinzip ein mobiles Alltagslabor und kann fest in einen Raum integriert werden. Seine Elemente wie der Raspberry Pi (Mini-Computer) können fest ins WLAN einer Einrichtung integriert werden. Die Technik des INTIA-Koffers kann mit den vorhandenen Strukturen des Raums dauerhaft verbunden werden. So könntest du z.B. die Deckenlampe über den INTIA-Koffer steuern.
 
 ## Die Einkaufsliste nutzen
 
@@ -109,17 +109,17 @@ Wir sind bemüht, hier aktuelle Links zu den vorgeschlagenen Produkten zu präse
 
 Die Einkaufsliste enthält alle notwendigen Angaben und ist nach Produktgruppen gegliedert. Die Produktauswahl wird mit regelmäßig aktualisierten Links angeboten. Gibt es zwei ähnliche Produkte, beschreibt ein Kurzhinweis worin sie sich unterscheiden. Es braucht also kein tiefes Fachwissen, um selbst über die bereitgestellten Links etwas einzukaufen.
 
-## Teile für den Koffer bestellen oder kaufen
+## Teile für den INTIA-Koffer bestellen oder kaufen
 
 Leider können aktuell nicht alle Einzelteile bei einem Anbieter bestellt werden. Dennoch soll unsere Liste den Einkauf möglichst einfach machen. Es kann dabei sinnvoll sein zu entscheiden, ob man anstelle nach Kosten auch nach dem Anbieter geht: Wenn du alles oder möglichst viele Produkte bei einem Shop bekommst, kann das sinnvoller und wegen der Versandkosten immer noch günstiger sein, als sich stets für den niedrigsten Preis zu entscheiden. Außerdem können einige Elemente auch in Geschäften vor Ort wie Baumärkte, Elektrofachgeschäfte oder manchmal sogar beim Discounter gekauft werden.
 
 ## Was kommt noch in den Koffer? Material ausdrucken
 
-Der INTIA Koffer enthält nicht nur digitale Technik, sondern auch jede Menge analoge Materialien. Die meisten davon kannst du selbst ausdrucken. Wenn du aber zum Beispiel Karten häufiger benutzen möchtest, lohnt es sich, diese in einer Druckerei oder einem Copy Shop auf festerem Papier oder Pappe auszudrucken oder sie zu laminieren.
+Der INTIA-Koffer enthält nicht nur digitale Technik, sondern auch jede Menge analoge Materialien. Die meisten davon kannst du selbst ausdrucken. Wenn du aber zum Beispiel Karten häufiger benutzen möchtest, lohnt es sich, diese in einer Druckerei oder einem Copy Shop auf festerem Papier oder Pappe auszudrucken oder sie zu laminieren.
 
 ## Wenn alles da ist: den Koffer einräumen
 
-Sind alle Inhalte des INTIA Koffers beisammen, kann es noch nicht sofort losgehen. Aber keine Sorge - es ist viel einfacher als es scheint und der Koffer ist bald einsatzbereit! So solltest du vorgehen:
+Sind alle Inhalte des INTIA-Koffers beisammen, kann es noch nicht sofort losgehen. Aber keine Sorge - es ist viel einfacher als es scheint und der Koffer ist bald einsatzbereit! So solltest du vorgehen:
 
 1. Zuerst die Innenausstattung des Koffers mit einer Schaumstoff-Einlage zurecht machen. Es soll ja später alles seine Ordnung haben. 
 2. Die noch leere SD-Karte muss für den Mini-Computer mit Daten von unserer Plattform ausgestattet werden.
@@ -133,9 +133,9 @@ Sind alle Inhalte des INTIA Koffers beisammen, kann es noch nicht sofort losgehe
 Weiterführende Links zu den einzelnen Punkten folgen in Kürze.
 
 
-# Welchen Koffer für den Koffer Kaufen
+# Welchen Koffer für den Koffer Kaufen?
 
-Es gibt viele verschiedene Arten von Koffern. Sie unterscheiden sich in der Größe, der Form und vorallem dem Material. Diese Unterschiede bringen Vor- und Nachteile mit sich. Hierbei muss man insbesondere Berücksichtigen das die Verpackung des INTIA-Koffers als erstes Betrachtet, wie auch genutzt wird. Eine Sorgfältige Auswahl ist deshalb zu empfehlen.
+Es gibt viele verschiedene Arten von Koffern. Sie unterscheiden sich in der Größe, der Form und vorallem dem Material. Diese Unterschiede bringen Vor- und Nachteile mit sich. Eine sorgfältige Auswahl ist deshalb zu empfehlen.
 Wer einen Koffer kaufen will, muss sich fragen:
 
 - Was ist mir wichtig?
@@ -204,7 +204,7 @@ Der KF-Holzkoffer bietet einen schönen Holzkoffer im schlichten Design. Er wirk
         <td>23,10 EUR</td>
     </tr>
     <tr>
-        <th>Innefutter</th>
+        <th>Innenfutter</th>
         <td>NEIN</td>
     </tr>
     <tr>
@@ -268,7 +268,7 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
         <td>29,95 EUR</td>
     </tr>
     <tr>
-        <th>Innefutter</th>
+        <th>Innenfutter</th>
         <td>JA</td>
     </tr>
     <tr>
@@ -294,9 +294,9 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 </div>
 </div>
 
-Der Max ist immens groß. Für einen Großteil der Usecases ist dieser viel zu schwer, zu groß und er bietet etwas zu viel Fassungsvermögen. Allerdings bedeutet das nicht, dass er gänzlich ungeeignet ist. Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung.
+Der Max ist immens groß. Für einen Großteil der Einsatzfälle ist dieser viel zu schwer, zu groß und er bietet etwas zu viel Fassungsvermögen. Allerdings bedeutet das nicht, dass er gänzlich ungeeignet ist. Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung.
 
-Durch sein großes Fassungsvermögen bietet sich dieser Koffer für die platzintensivere Wireless-Variante des Koffers an. Dies unterschreibt auch die Wetterfestigkeit des Max. Zusätzlich können hier auch problemlos Maxi-Ausstattungen verpackt werden, wodurch auch die Arbeit mit fortgeschrittenen oder größeren Gruppen kein Problem ist.
+Durch sein großes Fassungsvermögen bietet sich dieser Koffer für die platzintensivere Wireless-Variante des Koffers an. Dies unterschreibt auch die Wetterfestigkeit des Max. Zusätzlich können hier auch problemlos INTIA-Erweiterungen verpackt werden, wodurch auch die Arbeit mit fortgeschrittenen oder größeren Gruppen kein Problem ist.
 
 Des Weiteren kann dieser Koffer die richtige Variante sein, um den INTIA-Koffer zu präsentieren. Auf Grund der Beschaffenheit des Koffers ist er auch für größere Reisen geeignet. Außerdem könnte der Fokus des Koffer-Inhalts auf repräsentative Elemente gelegt werden - wie beispielsweise Prototypen. So wäre dieser Koffer beinahe ideal als Begleiter auf Tagungen und für andere Präsentationen. Nur Rollen würden den Transport noch komfortabler gestalten.
 
@@ -323,7 +323,7 @@ Der vergleichsweise hohe Preis und das wirklich nicht besonders ansprechende Des
         <td>79,58 EUR</td>
     </tr>
     <tr>
-        <th>Innefutter</th>
+        <th>Innenfutter</th>
         <td>JA</td>
     </tr>
     <tr>
